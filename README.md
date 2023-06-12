@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![MM Github Banner](./assets/images/MM..png)
 <!--
 **mtmanning93/mtmanning93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
