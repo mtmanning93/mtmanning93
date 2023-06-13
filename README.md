@@ -13,14 +13,12 @@ An Englishman living in Switzerland. I'm currently a Full Stack Software Develpo
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/matttmanning/)
 [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram'>](https://www.instagram.com/mattmanning93/)
-
-📫 - mtmanning93@htomail.co.uk
+[<img src='https://img.shields.io/badge/%F0%9F%93%AB-mtmanning93%40htomail.co.uk-blue' alt='mail me'>](mtmanning93@htomail.co.uk)
 
 ### Showcase Projects - Below you can view some showcase repositories and projects. 💻⚡
 
- 
 <!--✨
-
+📫
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
