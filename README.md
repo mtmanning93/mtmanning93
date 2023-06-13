@@ -9,6 +9,8 @@ An Englishman living in Switzerland. I'm currently a Full Stack Software Develpo
 
 🌐 - [View my online CV](https://mtmanning93.github.io/iam-mtmanning/)
 
+📫 - mtmanning93@hotmail.co.uk
+
 ### Ready to Connect?
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/matttmanning/)
@@ -18,7 +20,7 @@ An Englishman living in Switzerland. I'm currently a Full Stack Software Develpo
 ### Showcase Projects - Below you can view some of my repositories and projects. 
 
 <!--✨
-📫
+
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
