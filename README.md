@@ -5,7 +5,7 @@
 
 ### Who Am I?
 
-An Englishman living in Switzerland. I'm currently a Full Stack Software Development student at Code Institute with interests also in design. If i am not coding im usually in the mountains climbing or running.
+An Englishman living in Switzerland. A software developer, graduating from Code Institute Full Stack Software Development (Advanced Front End) Programme, with interests also in design. If i am not coding im usually in the mountains.
 
 🌐 - [View my online CV](https://mtmanning93.github.io/iam-mtmanning/)
 
