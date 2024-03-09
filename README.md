@@ -1,4 +1,4 @@
-![MM Github Banner](./assets/images/MM..png)
+![MM Github Banner](./assets/images/banner.png)
 
 # Matt Manning
 ## Software Developer, Design Enthusiast, Mountain Climber.
